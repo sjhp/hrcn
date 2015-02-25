@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hrcn.iml" filepath="$PROJECT_DIR$/hrcn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrcn-all/hrcn-all.iml" filepath="$PROJECT_DIR$/hrcn-all/hrcn-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrcn-analyzer/hrcn-analyzer.iml" filepath="$PROJECT_DIR$/hrcn-analyzer/hrcn-analyzer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrcn-client/hrcn-client.iml" filepath="$PROJECT_DIR$/hrcn-client/hrcn-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrcn-collect/hrcn-collect.iml" filepath="$PROJECT_DIR$/hrcn-collect/hrcn-collect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrcn-common/hrcn-common.iml" filepath="$PROJECT_DIR$/hrcn-common/hrcn-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrcn-export/hrcn-export.iml" filepath="$PROJECT_DIR$/hrcn-export/hrcn-export.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrcn-notify/hrcn-notify.iml" filepath="$PROJECT_DIR$/hrcn-notify/hrcn-notify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrcn-server/hrcn-server.iml" filepath="$PROJECT_DIR$/hrcn-server/hrcn-server.iml" />
+    </modules>
+  </component>
+</project>
+
