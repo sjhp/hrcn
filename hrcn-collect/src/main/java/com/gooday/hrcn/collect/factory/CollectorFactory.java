@@ -3,9 +3,10 @@
  */
 package com.gooday.hrcn.collect.factory;
 
-import com.gooday.hrcn.common.collect.ICollector;
+
 import com.gooday.hrcn.collect.thread.CollectThread;
 import com.gooday.hrcn.common.InstanceManager;
+import com.gooday.hrcn.common.collect.ICollector;
 import com.gooday.hrcn.common.context.RuntimeContext;
 import com.gooday.hrcn.common.util.LogUtil;
 import com.gooday.hrcn.common.util.StringUtil;

@@ -3,7 +3,6 @@
  */
 package com.gooday.hrcn.common.context;
 
-import com.gooday.hrcn.common.cache.ICache;
 import com.gooday.hrcn.common.cache.service.CacheService;
 import com.gooday.hrcn.common.collect.ICollector;
 import com.gooday.hrcn.common.config.ConfigService;

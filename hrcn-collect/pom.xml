@@ -15,6 +15,11 @@
             <artifactId>hrcn-common</artifactId>
             <version>${project.parent.version}</version>
         </dependency>
+        <dependency>
+            <groupId>org.jvnet.sorcerer</groupId>
+            <artifactId>sorcerer</artifactId>
+            <version>0.8</version>
+        </dependency>
     </dependencies>
     <build>
         <plugins>

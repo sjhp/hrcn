@@ -6,9 +6,8 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="hrcn-common" />
     <orderEntry type="library" name="Maven: org.springframework:spring-core:4.1.4.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: commons-logging:commons-logging:1.2" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-context:4.1.4.RELEASE" level="project" />
@@ -32,7 +31,9 @@
     <orderEntry type="module" module-name="hrcn-server" />
     <orderEntry type="module" module-name="hrcn-analyzer" />
     <orderEntry type="module" module-name="hrcn-collect" />
+    <orderEntry type="library" name="Maven: org.jvnet.sorcerer:sorcerer:0.8" level="project" />
     <orderEntry type="module" module-name="hrcn-export" />
+    <orderEntry type="library" name="Maven: org.mongodb:mongo-java-driver:2.11.1" level="project" />
     <orderEntry type="module" module-name="hrcn-notify" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework:spring-test:4.1.4.RELEASE" level="project" />
   </component>

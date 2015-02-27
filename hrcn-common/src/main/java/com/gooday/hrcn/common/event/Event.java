@@ -5,8 +5,6 @@ package com.gooday.hrcn.common.event;
 
 import com.gooday.hrcn.common.constant.EnumEventType;
 
-import java.io.Serializable;
-
 /**
  * [事件,避免耦合，不需要传递事件源]
  *

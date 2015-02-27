@@ -3,9 +3,6 @@
  */
 package com.gooday.hrcn.common.factory;
 
-import java.util.HashMap;
-import java.util.Map;
-
 /**
  * [抽象工厂]
  *

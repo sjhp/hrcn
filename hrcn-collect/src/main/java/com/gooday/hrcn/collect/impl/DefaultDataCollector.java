@@ -3,11 +3,10 @@
  */
 package com.gooday.hrcn.collect.impl;
 
-import com.gooday.hrcn.common.collect.ICollector;
 import com.gooday.hrcn.common.cache.service.CacheService;
+import com.gooday.hrcn.common.collect.ICollector;
 import com.gooday.hrcn.common.constant.EnumCacheType;
 import com.gooday.hrcn.common.exception.CollectException;
-import com.gooday.hrcn.common.util.LogUtil;
 import com.gooday.hrcn.common.util.ValidUtil;
 
 /**

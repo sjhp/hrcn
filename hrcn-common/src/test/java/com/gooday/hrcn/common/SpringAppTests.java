@@ -3,10 +3,8 @@ package com.gooday.hrcn.common;
 import com.gooday.hrcn.common.remoting.netty.NettyClient;
 import com.gooday.hrcn.common.remoting.netty.NettyServer;
 import com.gooday.hrcn.common.util.LogUtil;
-import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 

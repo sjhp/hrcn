@@ -15,7 +15,10 @@ import com.gooday.hrcn.common.util.LogUtil;
 import com.gooday.hrcn.common.util.StringUtil;
 import com.gooday.hrcn.common.util.ValidUtil;
 
-import java.util.*;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Map;
+import java.util.Vector;
 
 /**
  * [缓存管理代理类]

@@ -4,8 +4,6 @@
 package com.gooday.hrcn.common.remoting.netty.handler;
 
 import com.gooday.hrcn.common.util.LogUtil;
-import io.netty.buffer.ByteBuf;
-import io.netty.channel.ChannelHandler;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInboundHandlerAdapter;
 import io.netty.util.ReferenceCountUtil;
