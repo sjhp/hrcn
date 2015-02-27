@@ -1,5 +1,7 @@
 package hrcn.bean;
 
+import java.io.Serializable;
+
 /**
  * [com.gooday.hrcn]
  *
@@ -9,5 +11,7 @@ package hrcn.bean;
  * @Update: [说明本次修改内容] BY[Jon.K][2015/2/25 11:47]
  * @Version: [v1.0]
  */
-public class LogBean {
+public class LogBean implements Serializable{
+    public int index;
+
 }
