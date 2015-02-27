@@ -49,12 +49,10 @@ public class MongoExportTest {
     @Test
     public  void getFilesTest()  throws Exception {
         List<DBObject> list =MongoDBManager.getInstance().getFiles();
-        for(DBObject object:list){
-            System.out.println(object);
-        }
+        list.forEach(System.out::println);
         Float f = new Float("20.75f");
         // returns the float value represented by the string argument
-        String str = "204223356.00";
+        String str = "20150227";
         float retval = f.parseFloat(str);
         Double d = Double.valueOf(retval);
         System.err.println(d);

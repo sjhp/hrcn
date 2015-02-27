@@ -1,7 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.jvnet.sorcerer:sorcerer:0.8">
-    <CLASSES />
-    <JAVADOC />
-    <SOURCES />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jvnet/sorcerer/sorcerer/0.8/sorcerer-0.8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jvnet/sorcerer/sorcerer/0.8/sorcerer-0.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jvnet/sorcerer/sorcerer/0.8/sorcerer-0.8-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>

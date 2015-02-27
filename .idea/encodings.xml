@@ -5,6 +5,7 @@
     <file url="file://$PROJECT_DIR$/hrcn-export/src/main/java/hrcn/util/MongoDBManager.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hrcn-export/src/main/java/hrcn/util/MongoDbHelper.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hrcn-export/src/main/resources/log4j.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hrcn-export/src/main/webapp/js/jquery.min.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hrcn-export/src/test/resources" charset="UTF-8" />
   </component>
 </project>

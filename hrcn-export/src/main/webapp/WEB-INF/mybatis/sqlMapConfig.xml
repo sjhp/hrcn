@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <typeAliases>
+        <typeAlias type="com.jsh.oauth.server.entity.User" alias="User"/>
+        <typeAlias type="com.jsh.oauth.server.entity.App" alias="App"/>
+        <typeAlias type="com.jsh.oauth.server.entity.AccessToken" alias="AccessToken"/>
+        <typeAlias type="com.jsh.oauth.server.entity.Method" alias="Method"/>
+        <typeAlias type="com.jsh.oauth.server.entity.Role" alias="Role"/>
+        <typeAlias type="com.jsh.oauth.server.entity.RoleMethod" alias="RoleMethod"/>
+        <typeAlias type="com.jsh.oauth.server.entity.TokenMethod" alias="TokenMethod"/>
+        <typeAlias type="com.jsh.oauth.server.entity.TokenSeller" alias="TokenSeller"/>
+    </typeAliases>
+</configuration>
